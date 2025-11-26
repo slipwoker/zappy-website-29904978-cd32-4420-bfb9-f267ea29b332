@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://-29904978.zappy5.app/sitemap.xml
+Sitemap: https://wedding-organizer.zappy5.app/sitemap.xml
